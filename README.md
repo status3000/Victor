@@ -1,4 +1,3 @@
-# Victor
 ## Hi, my name is Victor and I'm a Data Scientist:
 
 ### Once I became interested in Data Science and no one saw me more :man_scientist:
